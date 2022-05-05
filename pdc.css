@@ -1,0 +1,35 @@
+
+
+body{
+    background-color: #8B0000;
+
+}
+.cadre{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+label{
+    color: black;
+    margin-right: 180px;
+} 
+label:hover{
+    color: green;
+}
+.a{
+    padding-right: 25px;
+}
+input{
+	 margin-right: 80px;
+
+}.b{
+	width: 140px;
+	 margin-right: 115px;
+
+	padding: 10px;
+	display: flex;
+}
+.submit{
+	cursor: pointer;
+	display: inline;
+	}
